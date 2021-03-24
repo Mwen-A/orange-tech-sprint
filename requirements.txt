@@ -1,0 +1,5 @@
+seaborn
+pandas
+psycopg2
+
+# pip install -r requirements.txt 
